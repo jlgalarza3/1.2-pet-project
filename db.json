@@ -4,7 +4,33 @@
       "id": 1,
       "name": "Jorge",
       "lastName": "Galarza",
+      "email": "jgalarza@stackbuilders.com",
+      "password": "Al123456*"
       "age": 22
-    }
+    },
+    {
+      "id": 2,
+      "name": "Christian",
+      "lastName": "Galarza",
+      "email": "cgalarza@hotmail.com",
+      "password": "QWerty123*"
+      "age": 25
+    },
+    {
+      "id": 3,
+      "name": "Martin",
+      "lastName": "Posso",
+      "email": "mposso@stackbuilders.cp,",
+      "password": "mpo1237*"
+      "age": 22
+    },
+    {
+      "id": 4,
+      "name": "Suany",
+      "lastName": "Chalán",
+      "email": "schalan@stackbuilders.cp,",
+      "password": "schalo11239*"
+      "age": 22
+    },
   ]
 }
