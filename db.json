@@ -20,7 +20,7 @@
         "id": 3,
         "name": "Martin",
         "lastName": "Posso",
-        "email": "mposso@stackbuilders.cp,",
+        "email": "mposso@stackbuilders.com",
         "password": "mpo1237*",
         "age": 22
       },
@@ -28,7 +28,7 @@
         "id": 4,
         "name": "Suany",
         "lastName": "Chalán",
-        "email": "schalan@stackbuilders.cp,",
+        "email": "schalan@stackbuilders.com",
         "password": "schalo11239*",
         "age": 22
       }
