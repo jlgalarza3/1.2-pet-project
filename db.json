@@ -1,11 +1,10 @@
 {
-  "posts": [
+  "users": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "Jorge",
+      "lastName": "Galarza",
+      "age": 22
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
 }
